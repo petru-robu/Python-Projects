@@ -1,0 +1,212 @@
+[
+    {
+        "Date": "Jan 1",
+        "Day": "Saturday",
+        "Name": "New Year's Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Jan 2",
+        "Day": "Sunday",
+        "Name": "Day after New Year's Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Jan 24",
+        "Day": "Monday",
+        "Name": "Unification Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Feb 19",
+        "Day": "Saturday",
+        "Name": "Constantin Brancusi Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Feb 24",
+        "Day": "Thursday",
+        "Name": "Dragobete",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Mar 1",
+        "Day": "Tuesday",
+        "Name": "Mărțișor",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Mar 8",
+        "Day": "Tuesday",
+        "Name": "International Women's Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Mar 20",
+        "Day": "Sunday",
+        "Name": "March Equinox",
+        "Type": "Season"
+    },
+    {
+        "Date": "Apr 22",
+        "Day": "Friday",
+        "Name": "Orthodox Good Friday",
+        "Type": "National holiday, Orthodox"
+    },
+    {
+        "Date": "Apr 24",
+        "Day": "Sunday",
+        "Name": "Orthodox Easter Day",
+        "Type": "National holiday, Orthodox"
+    },
+    {
+        "Date": "Apr 25",
+        "Day": "Monday",
+        "Name": "Orthodox Easter Monday",
+        "Type": "National holiday, Orthodox"
+    },
+    {
+        "Date": "May 1",
+        "Day": "Sunday",
+        "Name": "Labor Day / May Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "May 1",
+        "Day": "Sunday",
+        "Name": "Mother's Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "May 8",
+        "Day": "Sunday",
+        "Name": "Father's Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "May 10",
+        "Day": "Tuesday",
+        "Name": "Monarchy Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "May 10",
+        "Day": "Tuesday",
+        "Name": "National Independence Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Jun 1",
+        "Day": "Wednesday",
+        "Name": "Children's Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Jun 2",
+        "Day": "Thursday",
+        "Name": "Orthodox Ascension Day",
+        "Type": "Observance, Orthodox"
+    },
+    {
+        "Date": "Jun 12",
+        "Day": "Sunday",
+        "Name": "Orthodox Pentecost",
+        "Type": "National holiday, Orthodox"
+    },
+    {
+        "Date": "Jun 13",
+        "Day": "Monday",
+        "Name": "Orthodox Pentecost Monday",
+        "Type": "National holiday, Orthodox"
+    },
+    {
+        "Date": "Jun 21",
+        "Day": "Tuesday",
+        "Name": "June Solstice",
+        "Type": "Season"
+    },
+    {
+        "Date": "Jun 26",
+        "Day": "Sunday",
+        "Name": "Flag Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Jul 29",
+        "Day": "Friday",
+        "Name": "National Anthem Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Aug 15",
+        "Day": "Monday",
+        "Name": "St Mary's Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Sep 23",
+        "Day": "Friday",
+        "Name": "September Equinox",
+        "Type": "Season"
+    },
+    {
+        "Date": "Oct 31",
+        "Day": "Monday",
+        "Name": "Halloween",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Nov 30",
+        "Day": "Wednesday",
+        "Name": "St Andrew's Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Dec 1",
+        "Day": "Thursday",
+        "Name": "National Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Dec 2",
+        "Day": "Friday",
+        "Name": "Public Sector Holiday",
+        "Type": "Public Holiday"
+    },
+    {
+        "Date": "Dec 8",
+        "Day": "Thursday",
+        "Name": "Constitution Day",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Dec 21",
+        "Day": "Wednesday",
+        "Name": "December Solstice",
+        "Type": "Season"
+    },
+    {
+        "Date": "Dec 24",
+        "Day": "Saturday",
+        "Name": "Christmas Eve",
+        "Type": "Observance"
+    },
+    {
+        "Date": "Dec 25",
+        "Day": "Sunday",
+        "Name": "Christmas Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Dec 26",
+        "Day": "Monday",
+        "Name": "Second day of Christmas",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "Dec 31",
+        "Day": "Saturday",
+        "Name": "New Year's Eve",
+        "Type": "Observance"
+    }
+]
