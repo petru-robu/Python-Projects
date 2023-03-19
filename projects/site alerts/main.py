@@ -5,7 +5,7 @@ import chardet
 
 regexes = {
     'default': '(https?:\/\/[^ "]*\.html)',
-    'digi': 'stiri[^ "]*'
+    'digi': 'href="[^ "]'
 }
 
 
